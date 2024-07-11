@@ -7,7 +7,8 @@ EOG operates on the principle of the electrical potential difference between the
 ![image](https://github.com/Nil-Del/GazeAviator/assets/59746481/a1090340-d8a4-416f-8e16-e381ace97119)
 
 As the eye shifts position, this dipole's orientation changes, altering the potential difference detectable at the skin's surface with strategically placed electrodes. For instance, moving the eyes left increases the potential at the left eye's outer corner and decreases it at the right's, leading to a negative potential difference. Conversely, looking right reverses this effect, creating a positive potential difference. When the eyes are stationary and facing forward, the potential measured by the electrodes fluctuate around zero, providing a baseline for eye movement detection (Fig. 2).
-![image](https://github.com/Nil-Del/GazeAviator/assets/59746481/a8a0040a-8f88-4818-81ab-28507e4db59b)
+![image](https://github.com/Nil-Del/GazeAviator/assets/59746481/e6f8e168-30ed-4c0f-bf54-a882839b2e97)
+
 
 ## Hardware Setup
 In this project, silver (Ag) electrodes are used to measure EOG signals. To measure vertical eye movements, electrodes are attached to above and below of one eye. A reference electrode is affixed behind the ear To capture the horizontal movements, two electrodes are placed approximately 1cm from the outer canthus of each eye.
